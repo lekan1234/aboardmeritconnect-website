@@ -2640,13 +2640,13 @@ span.m_1 {
 	font-size:45px;
 	font-weight: 1000;
 	font-weight: bold;
-	color: #0BA9F9;
+	color: white;
 	
 }
 
 .carousel-caption  h2 span {
 	font-size:60px;
-	color: #fff;
+	color: white;
 }
 
 .carousel-caption  p {
@@ -2686,34 +2686,3 @@ span.m_1 {
   -o-transition:  color 300ms, background-color 300ms;
   transition:  color 300ms, background-color 300ms;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
